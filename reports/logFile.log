@@ -1,0 +1,375 @@
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-test=ChromeAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-1] ERROR com.epam.AmazonTest.pages.ElectricityPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id='billObjectSection'] (tried for 10 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-test=FirefoxAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-5] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=FirefoxAmazonTest-5] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-5] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-5] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=FirefoxAmazonTest-5] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-5] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-tests-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-tests-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-tests-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-tests-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-tests-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-tests-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-tests-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-tests-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-tests-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-tests-2] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-tests-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-tests-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-tests-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-tests-2] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-tests-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-tests-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-tests-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-tests-3] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-tests-2] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-tests-2] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-tests-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-tests-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-tests-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-tests-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-tests-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-tests-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-tests-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-tests-1] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-tests-1] INFO  com.epam.AmazonTest.tests.ElectricityTest  -  Test Passed
+[TestNG-tests-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[main] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[main] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=ChromeAmazonTest-2] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id="availability"]/span (tried for 4 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'EPINHYDW1416', ip: '10.71.9.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.97, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\VISWAN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:50067}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 971daf7002357b4712c10a0963c817d7
+[TestNG-test=ChromeAmazonTest-1] ERROR com.epam.AmazonTest.pages.SearchResultPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //img[@class="s-image"] (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-1] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type="search"] (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.tests.ElectricityTest  -  Test Passed
+[TestNG-test=ChromeAmazonTest-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-3] ERROR com.epam.AmazonTest.pages.AmazonPayPage  - com.epam.AmazonTest.pages.PageNotFoundException: Amazon Pay Page not found https://www.amazon.in/gp/sva/dashboard
+[TestNG-test=FirefoxAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - com.epam.AmazonTest.pages.PageNotFoundException: Mobile Recharge Page not found https://www.amazon.in/hfc/mobileRecharge
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=FirefoxAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=FirefoxAmazonTest-4] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[TestNG-test=FirefoxAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=FirefoxAmazonTest-2] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //div[@id="availability"]/span (tried for 4 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'EPINHYDW1416', ip: '10.71.9.145', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 67.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190516215225, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 12912, moz:profile: C:\Users\Viswanath_Lakshmis..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 55e26f4a-601b-430d-ab48-c323407652c6
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.AmazonPayPage  - com.epam.AmazonTest.pages.PageNotFoundException: Amazon Pay Page not found https://www.amazon.in/gp/sva/dashboard
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - com.epam.AmazonTest.pages.PageNotFoundException: Mobile Recharge Page not found https://www.amazon.in/hfc/mobileRecharge
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id="mobileNumberTextInputId"] (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@id="operatorAndCircleTextInputId"] (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //a[@id='viewPlanTriggerId'] (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@name='choosePlanButton' and contains(@value,'249')] (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='submit' and @name='Buy'] (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=HeadlessAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=ChromeAmazonTest-1] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=ChromeAmazonTest-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-test=ChromeAmazonTest-3] INFO  com.epam.AmazonTest.tests.ElectricityTest  -  Test Passed
+[TestNG-test=ChromeAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=ChromeAmazonTest-4] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[TestNG-test=FirefoxAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - com.epam.AmazonTest.pages.PageNotFoundException: Mobile Recharge Page not found https://www.amazon.in/hfc/mobileRecharge
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=FirefoxAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=FirefoxAmazonTest-4] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[TestNG-test=FirefoxAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-1] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-1] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-test=FirefoxAmazonTest-2] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=FirefoxAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=FirefoxAmazonTest-4] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[TestNG-test=HeadlessAmazonTest-1] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.AmazonPayPage  - com.epam.AmazonTest.pages.PageNotFoundException: Amazon Pay Page not found https://www.amazon.in/gp/sva/dashboard
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - com.epam.AmazonTest.pages.PageNotFoundException: Mobile Recharge Page not found https://www.amazon.in/hfc/mobileRecharge
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-3] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-3] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-2] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[TestNG-test=HeadlessAmazonTest-2] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[TestNG-test=HeadlessAmazonTest-4] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - chrome driver instance created
+[main] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[main] INFO  com.epam.AmazonTest.tests.ElectricityTest  -  Test Passed
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[main] ERROR com.epam.AmazonTest.pages.AmazonPayPage  - com.epam.AmazonTest.pages.PageNotFoundException: Amazon Pay Page not found https://www.amazon.in/gp/sva/dashboard
+[main] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - com.epam.AmazonTest.pages.PageNotFoundException: Mobile Recharge Page not found https://www.amazon.in/hfc/mobileRecharge
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - firefox driver instance created
+[main] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[main] ERROR com.epam.AmazonTest.pages.AmazonPayPage  - com.epam.AmazonTest.pages.PageNotFoundException: Amazon Pay Page not found https://www.amazon.in/gp/sva/dashboard
+[main] ERROR com.epam.AmazonTest.pages.MobileRechargePage  - com.epam.AmazonTest.pages.PageNotFoundException: Mobile Recharge Page not found https://www.amazon.in/hfc/mobileRecharge
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - Mobile Operator : 
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[main] INFO  com.epam.AmazonTest.driver.DriverFactory  - headless driver instance created
+[main] ERROR com.epam.AmazonTest.pages.ProductPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h1[contains(text(),'Customer') or contains(text(),'Product')]/following-sibling::div (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.pages.ProductPage  - information : 
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - com.epam.AmazonTest.pages.PageNotFoundException: Login Page not found https://www.amazon.in/ap/signin
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirecting to payment section
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495440
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi123
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - 7020495448
+[main] INFO  com.epam.AmazonTest.utility.ExcelUtil  - ravi@8888
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //span[contains(text(),'We cannot find an account')]  (tried for 4 second(s) with 500 milliseconds interval)
+[main] ERROR com.epam.AmazonTest.pages.LoginPage  - Required Element is not found : org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //input[@type='email'] (tried for 8 second(s) with 500 milliseconds interval)
+[main] INFO  com.epam.AmazonTest.tests.LoginTest  - validation of user is successful
+[main] INFO  com.epam.AmazonTest.tests.MobileRechargeTest  - redirection to payment section successful !
