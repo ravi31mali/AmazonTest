@@ -18,21 +18,24 @@ public class DriverFactory {
 			case "firefox":
 				logger.info("firefox driver instance created");
 				driver = new FirefoxBrowser().initDriver();
-				driver.manage().window().maximize();
+				break;
+
+			case "opera":
+				logger.info("opera driver instance created");
+				driver = new OperaBrowser ().initDriver();
 				break;
 
 			case "headless":
 				logger.info("headless driver instance created");
 				driver = new HeadlessBrowser().initDriver();
-				driver.manage().window().fullscreen();
 				break;
 
 			default:
 				logger.info("chrome driver instance created");
 				driver = new ChromeBrowser().initDriver();
-				driver.manage().window().maximize();
 
 		}
+		driver.manage().window().maximize();
 		return driver;
 
 	}
